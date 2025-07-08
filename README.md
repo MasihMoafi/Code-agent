@@ -51,7 +51,7 @@ The system uses a supervisor to manage a team of specialized agents:
     -   Ensure `ollama` is installed and running.
     -   Pull the model used by the agents (e.g., Qwen):
         ```bash
-        ollama pull qwen
+        ollama pull qwen3:latest
         ```
 
 ## Usage
